@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Frank Murphy",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/c/cf/Frank_Murphy.jpg/revision/latest/top-crop/width/200/height/150?cb=20160905174357",
+    "description": "Get to know your match! Frank is very straight-laced, conservative and traditional in many ways.Whenever Frank experiences more than he can handle, it makes him angry. Then, out of frustration, he uses a punching bag in the garage.",
+    "scores": [
+      3,
+      5,
+      3,
+      4,
+      2,
+      3,
+      4,
+      5,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Sue Murphy",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/c/ce/Sue_Murphy.jpg/revision/latest/scale-to-width-down/200?cb=20160905174554",
+    "description":"Get to know your match! Sue doesn't seem to know what she wants in life, as being a stay at home mother left her anxious and bored, yearning for more purpose in life.",
+    "scores": [
+      5,
+      1,
+      4,
+      5,
+      1,
+      4,
+      2,
+      5,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "Kevin Murphy",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/6/6c/KevinMurphy.jpg/revision/latest/scale-to-width-down/356?cb=20160416030131",
+    "description":"Get to know your match! Kevin is usually an easy-going person, who is prone to short tempers whenever provoked. He is a slacker who doesn't see any worth in hard work",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      5,
+      5,
+      5,
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "name": "Maureen Murphy",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/3/3a/Maureen.png/revision/latest/scale-to-width-down/374?cb=20160601211416",
+    "description":"Get to know your match! Maureen is quite smart, and takes an interest in computers. She dislikes the Honeybee Scouts and many other traditionally feminine activities.",
+    "scores": [
+      2,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "Bill Murphy",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/d/d4/Screen_Shot_2016-11-15_at_12.52.44_AM.png/revision/latest/scale-to-width-down/277?cb=20161115065320",
+    "description":"Get to know your match! Bill appears to be respectful towards others, but being too nice or naive which causes people to take advantage of him ",
+    "scores": [
+      3,
+      3,
+      3,
+      4,
+      5,
+      1,
+      2,
+      2,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Anthony Bonfiglio",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/3/3f/Screen_Shot_2018-12-08_at_11.12.30_PM.png/revision/latest/top-crop/width/200/height/150?cb=20181209051308",
+    "description":"Get to know your match! Anthony seems to be a good person to himself but when he gets hyper, he only says \"You know what?\", and only stops saying it when something calming to him (such as the show \"Hobo Jojo\") is on",
+    "scores": [
+      2,
+      3,
+      1,
+      1,
+      1,
+      5,
+      5,
+      1,
+      4,
+      3
+    ]
+  },
+
+  {
+    "name": "Bridget Fitzsimmons",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/7/77/Bridgett.jpg/revision/latest/top-crop/width/200/height/150?cb=20170604172053",
+    "description":"Get to know your match! Bridget is a complete psycho, she is very hyper and has a relatively violent mind. She also likes to physically abuse guys. Oops.",
+    "scores": [
+      4,
+      1,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      3,
+      2
+    ]
+  },
+
+  {
+    "name": "Chet Stevenson",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/3/30/Chet.PNG/revision/latest/top-crop/width/200/height/150?cb=20181203031835",
+    "description":"Get to know your match! Chet appears initially friendly and approachable, getting along with people near instantly. In secret, however, Chet is extremely conniving and self-doubting.",
+    "scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Vic Reynolds",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/8/84/91797.jpg/revision/latest?cb=20161025154341",
+    "description":"Get to know your match! Vic has a very simplistic world-view, and is unaware of the financial struggles.He is naive, and often trusts people who wind up betraying him or going behind his back. ",
+    "scores": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Cutie Pie",
+    "photo": "https://vignette.wikia.nocookie.net/f-is-for-family/images/9/94/Screen_Shot_2017-06-07_at_1.20.54_AM.png/revision/latest?cb=20170607062509",
+    "description":"Get to know your match! Cutie Pie speaks in a high, airy voice and is not the brightest. She likes to have a large nude portraits of her in house of her boyfriend ",
+    "scores": [
+      1,
+      1,
+      1,
+      3,
+      5,
+      3,
+      2,
+      4,
+      4,
+      4
+    ]
+  }
+
+]

@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  .container
+    .jumbotron
+      h1
+        span  Friend Finder
+      hr
+      h2 Answer a few basic questions.
+      h2 Then find the friend with the greatest compatibility!
+      br
+
+      div
+        <a href="/survey"><button type="button" class="btn btn-lg btn-primary"><h4><span class="glyphicon glyphicon-list-alt"></span> Go to Survey</h4></button></a>
+
+    footer.footer
+      .container
+        p <a href="/api/friends">API Friends List</a> | <a href="https://github.com/Hellsrevenge/FriendFinder">GitHub Repo</a>
+

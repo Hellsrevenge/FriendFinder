@@ -1,0 +1,14 @@
+#match-descr {
+    float: right;
+    font-size: 15px;
+    width: 250px;
+}
+#match-img {
+    width: 300px;
+}
+.jumbotron {
+background-color: #feffc0;
+}
+#survey-container{
+    background: url("img/fr1.jpg");
+}
