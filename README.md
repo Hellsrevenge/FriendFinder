@@ -11,8 +11,7 @@ FF is a friend matching app, based on users responses to a servey. When the surv
 - JSON
 - CSS
 # Demo
-Please follow the link to Heroku deployment to see the demo of the project.
-
+Please follow the link to [Heroku](https://friendfinder-f-is-for-family.herokuapp.com/) deployment to see the demo of the project.
 # Screenshots Walkthrough
 ![](assets/1.png) 
 ![](assets/2.png) 
